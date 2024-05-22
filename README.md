@@ -16,4 +16,4 @@ This project aims to identify key factors predicting student success in transiti
 ## Conclusion
 The analysis highlights the importance of academic preparation and support services in predicting student success during the preliminary year. These insights can guide targeted interventions to support at-risk students, helping UMass Dartmouth improve student retention and success rates.
 
-*** For a detailed report, read the PDF. ***
+***For a detailed report, read the PDF***
